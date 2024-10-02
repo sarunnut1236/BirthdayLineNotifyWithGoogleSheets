@@ -2,7 +2,6 @@
 Edit these tokens to change Line group chat to be sent by LineNotify
 */
 /* -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- */
-
 // This section defines access tokens for Line Notify. You should replace these with your own tokens.
 var BIRTHDAY_CHANNEL_ACCESS_TOKEN = ["____________________________"];
 var TEST_BIRTHDAY_CHANNEL_ACCESS_TOKEN = ["____________________________"];
@@ -13,7 +12,6 @@ var YOUR_SHEET_NAME = "____________________________";
 
 // This variable controls whether you're using the production or testing channel. Set it to `true` for testing and `false` for production.
 var isTestEnvironment = true;
-
 /* -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- */
 
 // Define the API endpoint URL and spreadsheet details
